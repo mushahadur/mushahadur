@@ -2,26 +2,8 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">GitHub Readme Stats</h2>
  <p align="center">This is my dynamically GitHub stats on my READMEs!</p>
+
 </p>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats/actions">
-      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
-      <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
-    </a>
-    <a href="https://codecov.io/gh/anuraghazra/github-readme-stats">
-      <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/issues">
-      <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats/pulls">
-      <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
-    </a>
-    <br />
-    <br />
-  </p>
 
 ![I am a Web Developer. I create Web Applications with PHP with Laravel Framework, JavaScript, Bootstrap, and jQuery.](https://media.licdn.com/dms/image/D4D16AQHm77KjSg0oFg/profile-displaybackgroundimage-shrink_200_800/0/1663980003230?e=2147483647&v=beta&t=5cu_C8aFrzJssZCkC5nuGSrua7NU_aQyi2DjcDucA6Q)
 ### Hi there 👋, my name is Mushahedur Rahman Khan
