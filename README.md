@@ -18,3 +18,12 @@ Skills: PHP || Laravel || JavaScript || jQuery || Ajax || Bootstrap || CSS || C 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
 
+<div role="gridcell" class="flex-auto min-width-0 d-none d-md-block col-5 mr-3" >
+              <span class="css-truncate css-truncate-target d-block width-fit markdown-title">
+                    <a data-pjax="true" title="docs(theme): Auto update theme readme (#2810)
+
+Co-authored-by: GitHub Readme Stats Bot &lt;no-reply@githubreadmestats.com&gt;" class="Link--secondary" href="/anuraghazra/github-readme-stats/commit/92a9d85c4a60d9c4e1f7543b430ce449df4176ad">docs(theme): Auto update theme readme (</a><a class="issue-link js-issue-link" data-error-text="Failed to load title" data-id="1751365631" data-permission-text="Title is private" data-url="https://github.com/anuraghazra/github-readme-stats/issues/2810" data-hovercard-type="pull_request" data-hovercard-url="/anuraghazra/github-readme-stats/pull/2810/hovercard" href="https://github.com/anuraghazra/github-readme-stats/pull/2810">#2810</a><a data-pjax="true" title="docs(theme): Auto update theme readme (#2810)
+
+Co-authored-by: GitHub Readme Stats Bot &lt;no-reply@githubreadmestats.com&gt;" class="Link--secondary" href="/anuraghazra/github-readme-stats/commit/92a9d85c4a60d9c4e1f7543b430ce449df4176ad">)</a>
+              </span>
+          </div>
