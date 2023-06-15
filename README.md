@@ -1,6 +1,6 @@
-<img src="./img/Banner.png" height="420" width="830" title="Self Learing image"/>
+<img src="./img/Banner.png" height="400" width="830" title="Self Learing image"/>
 
-![I am a Web Developer. I create Web Applications with PHP with Laravel Framework, JavaScript, Bootstrap, and jQuery.](https://media.licdn.com/dms/image/D4D16AQHm77KjSg0oFg/profile-displaybackgroundimage-shrink_200_800/0/1663980003230?e=2147483647&v=beta&t=5cu_C8aFrzJssZCkC5nuGSrua7NU_aQyi2DjcDucA6Q)
+
 ### Hi there 👋, my name is Mushahedur Rahman Khan
 #### I am a Web Developer. I create Web Applications with PHP with Laravel Framework, JavaScript, Bootstrap, and jQuery.
 
