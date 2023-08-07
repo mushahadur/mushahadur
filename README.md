@@ -1,4 +1,4 @@
-<img src="./img/Banner.png" height="300" title="Self Learing image"/>
+<img src="./img/Banner.png" height="290" title="Self Learing image"/>
 
 
 ### Hi there 👋, my name is Mushahedur Rahman Khan
