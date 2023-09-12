@@ -45,7 +45,8 @@ with potential.
  | Backend | PHP, Laravel, Lumen API, Ajax. |
  | Database | SQL, MySQL.|
  | Core Programming | C / C++, Data Structures, Algorithms, OOP, Problem Solving etc. |
+ | DevOps | Version Control Tool: GitHub, Container Platforms: Docker |
+ | Communication and Collaboration | Slack, Trello |
  | Miscellaneous | Microsoft Office, Linux|
  | Graphic Design | Canva, Online Tools |
- | DevOps | Version Control Tool: GitHub, Container Platforms: Docker |
   
