@@ -43,7 +43,7 @@ Highly motivated Software Engineer with 2+ years of experience in PHP, Laravel, 
  | ------------ | ---------------------- |
  | Frontend | JavaScript, Nuxt.Js, Vue.Js & Quasar, Tailwin, TypeScript |
  | Backend | PHP, Laravel, Ajax. |
- | Database | SQL, MySQL.| Firebase |
+ | Database | SQL, MySQL, Firebase |
  | DevOps | Version Control Tool: GitHub, Container Platforms: Docker |
  | Communication and Collaboration | Slack, Trello |
  | Miscellaneous | Microsoft Office, Linux|
