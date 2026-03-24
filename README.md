@@ -9,26 +9,23 @@ with a continuous drive to learn new technologies.
 Highly organized, proactive, and responsible, with excellent interpersonal and teamwork skills. Able to deliver
 high-quality work under tight deadlines while prioritizing organizational goals and maintaining performance
 in dynamic environments.
-</hr>
 
+--------------------------------------------------------------------------------------------------------
 ### Working Experience
 
-- Software Programmer at ICT Layer
+##### Software Programmer at ICT Layer
  - Responsibility
    - Developed and maintained HRM
    - Mully types of reports by delivering business-aligned features.
    - client handling, optimizing performance, and bug fixing.
 
-   </hr>
-
-- Software Developer at BitChip Digital
+##### Software Developer at BitChip Digital
  - Responsibility
    - Management Software System development.
    - Make a Standard API for multi-platform.
    - API Integrate to Nuxt Project.
 
-</hr>
-
+--------------------------------------------------------------------------------------------------------
 ### Completed Project 
 1. Management Information System (MIS) (Team Project).
 2. Brother’s Furniture.
