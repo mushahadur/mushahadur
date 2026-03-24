@@ -36,7 +36,7 @@ in dynamic environments.
 4. Text-to-Speech (Team Project),
 5. Customer Relationship Management System (Team Project)
 
-</hr>
+--------------------------------------------------------------------------------------------------------
 
 ### Major Areas of Expertise
   - MDeveloped scalable Web-based with complex business logic and high performance.
