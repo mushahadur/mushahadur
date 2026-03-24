@@ -16,8 +16,8 @@ in dynamic environments.
 ##### Software Programmer at ICT Layer
  - Responsibility
    - Developed and maintained HRM
-   - Mully types of reports by delivering business-aligned features.
-   - client handling, optimizing performance, and bug fixing.
+   - Develop and deliver multiple types of reports aligned with business requirements.
+   - Client handling, optimizing performance, and bug fixing.
 
 ##### Software Developer at BitChip Digital
  - Responsibility
