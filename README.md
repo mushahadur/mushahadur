@@ -1,9 +1,5 @@
 
-<p align="center">
- <img width="100px" src="./img/logo.png" align="center" alt="Logo" />
- <h2 align="center">This is my GitHub Readme Stats</h2>
- <p align="center"></p>
-</p>
+
 
 
 <img src="./img/Banner.png" height="290" width="100%" title="Self Learing image"/>
