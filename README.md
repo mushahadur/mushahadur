@@ -1,45 +1,58 @@
-
-
-
-
 <img src="./img/Banner.png" height="290" width="100%" title="Self Learing image"/>
 
-
 ### Software Developer at ICT Layer. PHP with Laravel & VueJS.
-Highly motivated Software Engineer with 2+ years of experience in PHP, Laravel, Vue.js, and database management. Proficient in developing scalable, secure, and responsive web applications, I aim to contribute to innovative projects in a dynamic company while collaborating with a talented team to deliver impactful software solutions and achieve business success
+A dedicated and results-driven Software Engineer with more then 3 years of experience in building scalable
+and efficient web applications. Experienced in business application development, with expertise in client
+satisfaction, requirement analysis, database design, and problem-solving. Recently involved in HRM module
+development and system management, recognized for strong problem-solving abilities in critical situations,
+with a continuous drive to learn new technologies.
+Highly organized, proactive, and responsible, with excellent interpersonal and teamwork skills. Able to deliver
+high-quality work under tight deadlines while prioritizing organizational goals and maintaining performance
+in dynamic environments.
+</hr>
 
-### Working 
+### Working Experience
 
 - Software Programmer at ICT Layer
+ - Responsibility
+   - Developed and maintained HRM
+   - Mully types of reports by delivering business-aligned features.
+   - client handling, optimizing performance, and bug fixing.
+
+   </hr>
+
+- Software Developer at BitChip Digital
  - Responsibility
    - Management Software System development.
    - Make a Standard API for multi-platform.
    - API Integrate to Nuxt Project.
-   - Maintenances Sometime CodeIgniter Project.
-   
-- Software Developer at BitChip Digital
- - Responsibility
-   - Web Page Customization
-   - Ajax Solution Single Page Action.
-   - REST Full API
-   - API integration.
+
+</hr>
 
 ### Completed Project 
 1. Management Information System (MIS) (Team Project).
-2. Own Template system.
 2. Brother’s Furniture.
-3. Jamuna Bank Website.
+3. E-commerce Project.
 4. Text-to-Speech (Team Project),
 5. Customer Relationship Management System (Team Project)
 
-### Technical Skills
+</hr>
 
+### Major Areas of Expertise
+  - MDeveloped scalable Web-based with complex business logic and high performance.
+  - Designed secure APIs and integrated payment systems using Laravel, MySQL, and Stripe.
+  - Built responsive, dynamic frontends with Nuxt.js and Quasar, optimizing database queries.
+  - Deployed applications via CI/CD, implementing caching, third-party integrations, and ensuring reliability.
+
+</hr>
+
+### Technical Skills
 
  | Field        | Technology                  |
  | ------------ | ---------------------- |
- | Frontend | JavaScript, Nuxt.Js, Vue.Js & Quasar, Tailwin, TypeScript |
- | Backend | PHP, Laravel, Ajax. |
- | Database | SQL, MySQL, Firebase |
+ | Frontend | JavaScript, Nuxt.Js, Vue.Js & Quasar, Tailwin |
+ | Backend | PHP, Laravel. |
+ | Database | MySQL, Oracle |
  | DevOps | Version Control Tool: GitHub, Container Platforms: Docker |
  | Communication and Collaboration | Slack, Trello |
  | Miscellaneous | Microsoft Office, Linux|
