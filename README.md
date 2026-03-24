@@ -44,7 +44,8 @@ in dynamic environments.
   - Built responsive, dynamic frontends with Nuxt.js and Quasar, optimizing database queries.
   - Deployed applications via CI/CD, implementing caching, third-party integrations, and ensuring reliability.
 
-</hr>
+
+*********************************************************************************************************
 
 ### Technical Skills
 
